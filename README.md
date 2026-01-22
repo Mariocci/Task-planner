@@ -1,6 +1,6 @@
 # Task Planner — Submission Checklist
-
-## Lista svojstava (svaka stavka — primjer i gdje provjeriti)
+This is a project for Advanced web development course
+## Lista svojstava
 
 1. **interpolation / one-way binding** — Da
    - Primjer: `src/components/TaskList.vue` :9 — `<span>Total: {{ tasks.length }}</span>`
